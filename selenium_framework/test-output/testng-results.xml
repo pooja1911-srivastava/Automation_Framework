@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-01T13:28:31 IST" name="Suite" finished-at="2023-09-01T13:28:31 IST" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2023-09-01T13:28:31 IST" name="Test" finished-at="2023-09-01T13:28:31 IST" duration-ms="72">
+      <class name="listeners.HelloWorld">
+        <test-method signature="Test1()[pri:0, instance:listeners.HelloWorld@3cebbb30]" started-at="2023-09-01T13:28:31 IST" name="Test1" finished-at="2023-09-01T13:28:31 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:listeners.HelloWorld@3cebbb30]" started-at="2023-09-01T13:28:31 IST" name="Test2" finished-at="2023-09-01T13:28:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:listeners.HelloWorld@3cebbb30]" started-at="2023-09-01T13:28:31 IST" name="Test3" finished-at="2023-09-01T13:28:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- listeners.HelloWorld -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

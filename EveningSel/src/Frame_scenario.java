@@ -17,9 +17,8 @@ public class Frame_scenario {
 	  
 	  driver.switchTo().frame("frame1");
 	 String text= driver.findElement(By.xpath("(//h1[@id='sampleHeading'])[1]")).getText();
-	  
-	  
-
+	
+	 
 	}
 
 }
